@@ -1,0 +1,3 @@
+#set( $USER   = "stxpons" )
+#set( $EMAIL  = "stxpons@gmail.com" )
+#set( $AUTHOR = '<a href="mailto:stxpons@gmail.com">stxpons</a>')
