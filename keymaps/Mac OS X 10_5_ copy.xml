@@ -1,0 +1,19 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Debug" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.UpdatedFiles" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="GotoRelated" />
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
