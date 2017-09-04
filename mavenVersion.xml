@@ -1,3 +1,3 @@
 <application>
-  <component name="MavenVersion" mavenHome="$USER_HOME$/repository/software/developer/maven" loggingLevel="DEBUG" />
+  <component name="MavenVersion" mavenHome="$USER_HOME$/work/dev_soft/maven" loggingLevel="DEBUG" />
 </application>
