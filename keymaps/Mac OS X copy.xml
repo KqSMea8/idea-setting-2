@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorDuplicateLines">
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
