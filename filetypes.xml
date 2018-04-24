@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*iml;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;__pycache__;_svn;logs;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <removed_mapping pattern=".boringignore" type="Darcs file" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="var" type="PLAIN_TEXT" />
     </extensionMap>
