@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="var" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="Python" />
     </extensionMap>
   </component>
 </application>
