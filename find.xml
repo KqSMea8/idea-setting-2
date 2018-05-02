@@ -2,37 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Current File" />
     <option name="defaultScopeName" value="Current File" />
+    <option name="localWholeWordsOnly" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Current File" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*M.xml</mask>
-      <mask>*Ma.xml</mask>
-      <mask>*Map.xml</mask>
-      <mask>*Mapp.xml</mask>
-      <mask>*Mapper.xml</mask>
-      <mask>*ProviderImpl</mask>
-      <mask>*ProviderImpl.</mask>
-      <mask>*ProviderImpl.j</mask>
-      <mask>*ProviderImpl.ja</mask>
-      <mask>*ProviderImpl.jav</mask>
-      <mask>*ProviderImpl.java</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.less</mask>
-    </recentFileMasks>
   </component>
 </application>
