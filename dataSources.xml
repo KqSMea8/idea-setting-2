@@ -1,10 +1,10 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="库存开发-172.19.73.94" uuid="2eaa33c7-dd57-465b-a912-22984e62c209">
+    <data-source source="LOCAL" name="库存开发-172.19.72.55" uuid="2eaa33c7-dd57-465b-a912-22984e62c209">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://172.19.73.94:3306/pc_stock</jdbc-url>
+      <jdbc-url>jdbc:mysql://172.19.72.55:3306/pc_stock</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
