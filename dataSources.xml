@@ -1,10 +1,10 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="商品开发-172.21.4.253" uuid="128c1009-b967-4a32-916c-d0334b232156">
+    <data-source source="LOCAL" name="text0-172.19.21.239" uuid="128c1009-b967-4a32-916c-d0334b232156">
       <driver-ref>oracle</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
-      <jdbc-url>jdbc:oracle:thin:@172.21.4.253:1521:oncz</jdbc-url>
+      <jdbc-url>jdbc:oracle:thin:@172.19.21.239:6688:qmtest</jdbc-url>
       <driver-properties>
         <property name="v$session.program" value="DataGrip" />
       </driver-properties>
