@@ -70,6 +70,14 @@
           <option name="url" value="http://git.dev.qianmi.com/product/ApacheJMeter_DubboClient.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://zhangdeyuan@git.cai-inc.com/Hecate/zcy-bidding-open.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.cai-inc.com" />
+          <option name="userName" value="zhangdeyuan" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/work/qianmi" />
