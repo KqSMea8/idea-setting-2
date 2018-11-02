@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*iml;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;__pycache__;_svn;logs;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*iml;*~;.DS_Store;.git;.hg;.idea;.svn;CVS;__pycache__;_svn;client.logRoot_IS_UNDEFINED;log_dir_IS_UNDEFINED;logs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="var" type="PLAIN_TEXT" />
