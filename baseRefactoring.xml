@@ -6,5 +6,6 @@
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_PARAMETER_REPLACE_FIELDS_WITH_GETTERS" value="1" />
     <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
+    <option name="RENAME_VARIABLES" value="false" />
   </component>
 </application>
