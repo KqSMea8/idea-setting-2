@@ -1,10 +1,24 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="hecate@172.16.101.144" uuid="59fe99cf-1dbf-48a3-8693-ba8249e5ed84">
+    <data-source source="LOCAL" name="def_fulltime@172.16.101.166" uuid="54aa60e7-420e-4f3c-943c-d15e00e9370a">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://172.16.101.144:3306/db_tendering</jdbc-url>
+      <jdbc-url>jdbc:mysql://172.16.101.166:3306/db_tendering</jdbc-url>
+      <driver-properties>
+        <property name="autoReconnect" value="true" />
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+        <property name="characterEncoding" value="utf8" />
+        <property name="characterSetResults" value="utf8" />
+        <property name="yearIsDateType" value="false" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="test7@172.16.101.131:3306" uuid="240c2a84-f35b-4791-a4bf-d59403b7b23a">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://rm-bp1t0yt5daflm34mn.mysql.rds.aliyuncs.com:3306/db_tendering</jdbc-url>
       <driver-properties>
         <property name="autoReconnect" value="true" />
         <property name="zeroDateTimeBehavior" value="convertToNull" />
