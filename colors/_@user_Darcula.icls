@@ -3,8 +3,32 @@
     <property name="created">2018-07-04T18:38:06</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.5.0.0</property>
-    <property name="modified">2018-07-11T12:11:33</property>
+    <property name="modified">2019-03-11T17:08:16</property>
     <property name="originalScheme">Darcula</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
+  <colors>
+    <option name="FILESTATUS_COPIED" value="629755" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
+  </colors>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
