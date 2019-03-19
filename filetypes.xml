@@ -6,6 +6,7 @@
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="filter" type="PLAIN_TEXT" />
       <mapping ext="var" type="PLAIN_TEXT" />
+      <mapping ext="propertis" type="PLAIN_TEXT" />
       <mapping pattern="test" type="Python" />
       <mapping ext="factories" type="spring.factories" />
     </extensionMap>
